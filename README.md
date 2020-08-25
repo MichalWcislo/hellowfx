@@ -1,5 +1,4 @@
 # Dictionary GIT
-# Dictionary GIT
 
 ### konfugracja gita
 Skonfirgurowanie nazwy użytkownika i email
