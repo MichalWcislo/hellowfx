@@ -11,3 +11,8 @@ Skonfirgurowanie nazwy użytkownika i email
 Wyświetla informacje na temat katologu projektu
 
 `git status`
+
+### git status
+Wyświetla informacje na temat katologu projektu
+
+`git status`
